@@ -1,0 +1,30 @@
+{
+  "name": "tcs_sls_personas",
+  "version": "1.0.0",
+  "description": "tcs_sls_personas",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monkar/tcs_sls_personas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monkar/tcs_sls_personas/issues"
+  },
+  "homepage": "https://github.com/monkar/tcs_sls_personas#readme",
+  "devDependencies": {
+    "serverless-plugin-include-dependencies": "^4.1.0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.829.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "serverless-http": "^2.6.1",
+    "short-uuid": "^4.1.0"
+  }
+}
