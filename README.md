@@ -73,7 +73,7 @@ https://8nw88155ik.execute-api.us-east-2.amazonaws.com/dev
 
 
 
-## Author
+## Autor
 Edgar Medina
 
 
